@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1694550722 source:c:\users\y.mohieldin\desktop\new_project_amit\main.c
+	<stdio.h>
+	"STD.h"
+	"SDB.h"
+
+1694550680 c:\users\y.mohieldin\desktop\new_project_amit\std.h
+
+1694550669 c:\users\y.mohieldin\desktop\new_project_amit\sdb.h
+	"STD.h"
+
+1694556304 source:c:\users\y.mohieldin\desktop\new_project_amit\sdb.c
+	<stdio.h>
+	<windows.h>
+	"STD.h"
+	"SDB.h"
+
+1694556363 source:c:\users\y.mohieldin\desktop\new_project_amit\sdbapp.c
+	"STD.h"
+	"SDB.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
